@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 5.5h | 2 |
+| Week 3 | Tier 1 | 6.25h | 2 |
 
 ## Contents
 
@@ -39,7 +39,7 @@ I used an esp32 C6, 9 Mx switches, 2 pec11r rotary encoders, and 3 Leds. I think
 
 ### 2026-10-19 – # The Cost of Laziness
 
-**2.5h**
+**3.25h**
 
 # The Cost of Laziness
 This morning, as I mentioned in the journal, I just wanted to start, didn't really get a concrete plan fleshed out. Now today, I am changing the parts... (Ooops)
@@ -64,3 +64,6 @@ When I was looking at rotary encoders to use I found 2, the PEC11R and the EC11.
 
 ## Double checking
 Once I realised that the microcontroller and rotary encoders were wrong/bad. I went over every other of the components I needed to make sure they were compatible.
+
+## Attempting
+I tried to add a speaker driver but decided it would be too difficult and would incur too much hassle. I also didn't really have enough pins for it anyway, without deleting a few things.
