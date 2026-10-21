@@ -10,3 +10,6 @@ At first I laid the switches in a 3 by 3 grid on the left, and the rotary encode
 <img width="700" height="462" alt="Screenshot 2026-10-16 074323" src="https://github.com/user-attachments/assets/82212503-533f-42e2-9d07-671591fcdc28" />
 
 <img width="944" height="524" alt="Screenshot 2026-10-16 163836" src="https://github.com/user-attachments/assets/3955365b-3ea8-4033-940e-cd80103f6efe" />
+
+## BOM
+I found parts cheaply in AliExpress and the PCB on JLCPCB. This way I can maximise my $30 budget.
