@@ -1,6 +1,5 @@
 # SynthBoard
-Synth board is a cross between a synthesiser and a soundboard. There is two rotary encoders, for volume and frequency, and programmable buttons, that can play custom sounds.
-
+Synth board is a cross between a synthesiser and a soundboard. There is two rotary encoders, for volume and frequency, and 9 Mx switches the bottom 3 will control play/pause and scrubbing backwards and forward. The other 6 button will play custom prerecorded sounds upon pressing them, like a soundboard.
 ## Goals
 My goal for the project is to help make or edit music. The rotary encoders will probably control volume and frequency. The MX switches will pause and play the audio and skip it forward and backward. I still need to decide exactly what the other MX switches will do but they will have a function. I took inspiration from other macro pads on the internet.
 
@@ -24,3 +23,6 @@ I found parts cheaply in AliExpress and the PCB on JLCPCB. This way I can maximi
 | Synth macro pad PCB (x5) | 1 | Jlc3dp | $4.00 | $4.00 | [Link](https://jlc3dp.com/shopcart/cart?source=3D) |
 | Estimated total shipping | 1 | — | — | $5.04 | — |
 | **Project Total** | | | | **$28.42** | |
+
+## Code
+Code will be done in the future (in a few weeks), I will use open source community library and will update when I have done it.
