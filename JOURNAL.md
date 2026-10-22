@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 10.75h | 4 |
+| Week 3 | Tier 1 | 11.25h | 4 |
 
 ## Contents
 
@@ -41,7 +41,7 @@ I used an esp32 C6, 9 Mx switches, 2 pec11r rotary encoders, and 3 Leds. I think
 
 ### 2026-10-19 – # The Cost of Laziness
 
-**3.25h**
+**3.75h**
 
 # The Cost of Laziness
 This morning, as I mentioned in the journal, I just wanted to start, didn't really get a concrete plan fleshed out. Now today, I am changing the parts... (Ooops)
