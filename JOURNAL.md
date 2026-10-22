@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 11.25h | 4 |
+| Week 3 | Tier 1 | 11.5h | 4 |
 
 ## Contents
 
@@ -91,7 +91,7 @@ I added the files to my GitHub repository and also updated my README with images
 
 ### 2026-10-20 – #Parts
 
-**1.75h**
+**2h**
 
 #Parts
 ## Research
