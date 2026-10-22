@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvf7j2ud0b2a01rcpvn56mvw). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A cross between a synthesiser and a soundboard. There is two rotary encoders, for volume and frequency, and programmable buttons, that can play custom sounds.
+> Synth board is a cross between a synthesiser and a soundboard. There is two rotary encoders, for volume and frequency, and programmable buttons, that can play custom sounds.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
