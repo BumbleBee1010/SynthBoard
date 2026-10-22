@@ -13,3 +13,14 @@ At first I laid the switches in a 3 by 3 grid on the left, and the rotary encode
 
 ## BOM
 I found parts cheaply in AliExpress and the PCB on JLCPCB. This way I can maximise my $30 budget.
+
+
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+| :--- | :---: | :--- | :---: | :---: | :--- |
+| Gateron Milky Yellow Pro Switches 5 Pin(21pcs) | 1 | AliExpress | $7.56 | $7.56 | [Link](https://www.aliexpress.com/item/1005006605714880.html) |
+| 20Pcs PBT Blank Keycaps | 1 | AliExpress | $5.55 | $5.55 | [Link](https://www.aliexpress.com/item/1005007683242914.html) |
+| RP2040-Zero Microcontroller | 1 | AliExpress | $3.21 | $3.21 | [Link](https://www.aliexpress.com/item/1005008738491752.html) |
+| 5PCS 20 Position Rotary Encoder EC11 blue with 15mm plum handle | 1 | AliExpress | $3.06 | $3.06 | [Link](https://www.aliexpress.com/item/1005007643925677.html) |
+| Synth macro pad PCB (x5) | 1 | Jlc3dp | $4.00 | $4.00 | [Link](https://jlc3dp.com/shopcart/cart?source=3D) |
+| Estimated total shipping | 1 | — | — | $5.04 | — |
+| **Project Total** | | | | **$28.42** | |
