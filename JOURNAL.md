@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvf7j2ud0b2a01rcpvn56mvw). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Synth board is a cross between a synthesiser and a soundboard. There is two rotary encoders, for volume and frequency, and programmable buttons, that can play custom sounds.
+> Synth board is a cross between a synthesiser and a soundboard. There is two rotary encoders, for volume and frequency, and 9 Mx switches the bottom 3 will control play/pause and scrubbing backwards and forward. The other 6 button will play custom prerecorded sounds upon pressing them, like a soundboard.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 13.25h | 5 |
+| Week 3 | Tier 1 | 13.5h | 5 |
 
 ## Contents
 
@@ -42,7 +42,7 @@ I used an esp32 C6, 9 Mx switches, 2 pec11r rotary encoders, and 3 Leds. I think
 
 ### 2026-10-19 – # The Cost of Laziness
 
-**3.75h**
+**4h**
 
 # The Cost of Laziness
 This morning, as I mentioned in the journal, I just wanted to start, didn't really get a concrete plan fleshed out. Now today, I am changing the parts... (Ooops)
