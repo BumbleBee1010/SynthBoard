@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 13.75h | 5 |
+| Week 3 | Tier 1 | 14h | 5 |
 
 ## Contents
 
@@ -107,7 +107,7 @@ I looked for each of the parts and made sure I got enough of each. I mainly foun
 
 ### 2026-10-22 – # Getting ready to submit
 
-**1.75h**
+**2h**
 
 # Getting ready to submit
 I finished the README in my GitHub repository, explaining my goal, the design process among other things. I made sure to include a screenshot in order to complete the checklist. I also made sure my  project description in half life is correct and brief. I also did the final reel describing my project.
