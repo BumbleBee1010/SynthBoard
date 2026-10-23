@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 14h | 5 |
+| Week 3 | Tier 1 | 14.75h | 5 |
 
 ## Contents
 
@@ -73,7 +73,7 @@ I tried to add a speaker driver but decided it would be too difficult and would 
 
 ### 2026-10-20 – # PCB layout 1
 
-**3h**
+**3.75h**
 
 # PCB layout 1
 At first I laid the switches in a 3 by 3 grid on the left, and the rotary encoders in the bottom right with the RP and ARGB ring above in the top right. The whole PCB was 110mm by 70mm. I exported it as a Gerber file and schematic.
@@ -81,9 +81,11 @@ At first I laid the switches in a 3 by 3 grid on the left, and the rotary encode
 ![1000008618](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/6bf66a12917ce4bb027714105f7c018144ddc64135ae53d58283f3828f162aba.png)
 
 # PCB layout 2
-Once I had finished the PCB, I used the Gerber files to try an order it in JLCPCB. But, the price includes engineering fee as well as special board fee (or something like that). This meant it cost more, I read the terms and found out the discounted price was for boards under 100 by 100mm. Because of this, I narrowed my PCB to fit within the dimensions and I also added and moved some of the screw holes. I tried ordering it again and it was less, at the $4 offer price.
+Once I had finished the PCB, I used the Gerber files to try an order it in JLCPCB. But, the price includes engineering fee as well as special board fee (or something like that). This meant it cost more, I read the terms and found out the discounted price was for boards under 100 by 100mm. Because of this, I narrowed my PCB to fit within the dimensions and I also added and moved some of the screw holes. I also wired the components together on the PCB. When I tried ordering it again and it was less, at the $4 offer price.
 
 ![1000008619](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/253cf82807d5d678eba0929b6a3a0632f84c5c83f213a71dc49d3a55c5d0aec6.png)
+
+![1000008879](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/e9db3ca45c90ddf0d76e14d0613eb8bedb96b8894bee73b632302170d7262bef.png)
 
 ## GitHub repository
 I added the files to my GitHub repository and also updated my README with images and a description of the final PCB design.
