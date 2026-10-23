@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 14.75h | 5 |
+| Week 3 | Tier 1 | 15.25h | 5 |
 
 ## Contents
 
@@ -94,13 +94,15 @@ I added the files to my GitHub repository and also updated my README with images
 
 ### 2026-10-20 – #Parts
 
-**2h**
+**2.5h**
 
 #Parts
 ## Research
-I looked a where to get parts and for the cheapest ti maximise the budget. I found the microcontroller among other things on AliExpress which was (surprisingly) cheap.
+I looked a where to get parts and for the cheapest ti maximise the budget. I found the microcontroller among other things on AliExpress which was (surprisingly) cheap. I also got the PCB from JLCPCB which is quite cheap.
 
 ![1000008629](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/c23c0ff5b3d43f151257920e7d180a47eddd55fc5bcfa5b3d6a5195b4dc094d9.png)
+
+![1000008838](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/febd65ef823fdefde1fad5f881aa757dcf4112b3b0bd4622859965471216661a.png)
 
 ## BOM
 I looked for each of the parts and made sure I got enough of each. I mainly found the parts on AliExpress other than the PCB which I would have to get from JLCPCB. I also have a .csv file for the BOM in my git repository.
