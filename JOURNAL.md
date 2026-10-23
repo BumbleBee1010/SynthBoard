@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 13.5h | 5 |
+| Week 3 | Tier 1 | 13.75h | 5 |
 
 ## Contents
 
@@ -73,7 +73,7 @@ I tried to add a speaker driver but decided it would be too difficult and would 
 
 ### 2026-10-20 – # PCB layout 1
 
-**2.75h**
+**3h**
 
 # PCB layout 1
 At first I laid the switches in a 3 by 3 grid on the left, and the rotary encoders in the bottom right with the RP and ARGB ring above in the top right. The whole PCB was 110mm by 70mm. I exported it as a Gerber file and schematic.
